@@ -1,5 +1,11 @@
 <img src="cover.png" width="200" align="right" />
 
+# Demo deployment
+
+This repo is not the official repo of jseverywhere!! It is my own process of following the book, but I've left the information about it in case you'd like to read more.
+
+Overall highly recommend. Be sure to read carefully lol, I've had some hang ups here and there, but overall informative and easy to follow.
+
 # JavaScript Everywhere API
 
 This repository contains code examples for the API chapters of [_JavaScript Everywhere_](https://www.jseverywhere.io/) by Adam D. Scott, published by O'Reilly Media
